@@ -4,15 +4,15 @@
     "gmail": {
       "name": "Google Mail",
       "alternativeNames": ["Gmail"],
-      "baseUrl": "https://github.com/SisiApp/addon-gmail"
+      "baseUrl": "https://raw.githubusercontent.com/SisiApp/addon-gmail/main"
     },
     "slack": {
       "name": "Slack",
-      "baseUrl": "https://github.com/SisiApp/addon-slack"
+      "baseUrl": "https://raw.githubusercontent.com/SisiApp/addon-slack/main"
     },
     "whatsapp": {
       "name": "WhatsApp",
-      "baseUrl": "https://github.com/SisiApp/addon-whatsapp"
+      "baseUrl": "https://raw.githubusercontent.com/SisiApp/addon-whatsapp/main"
     }
   }
 }
