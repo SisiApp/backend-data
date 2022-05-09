@@ -1,5 +1,18 @@
 {
   "id": "sisi-default",
   "addons": {
+    "gmail": {
+      "name": "Google Mail",
+      "alternativeNames": ["Gmail"],
+      "baseUrl": "https://github.com/SisiApp/addon-gmail"
+    },
+    "slack": {
+      "name": "Slack",
+      "baseUrl": "https://github.com/SisiApp/addon-slack"
+    },
+    "whatsapp": {
+      "name": "WhatsApp",
+      "baseUrl": "https://github.com/SisiApp/addon-whatsapp"
+    }
   }
 }
